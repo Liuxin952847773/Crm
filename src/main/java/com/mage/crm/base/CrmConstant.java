@@ -4,7 +4,7 @@ public class CrmConstant {
     //20200114-刘欣-功能1-修改的部分
     //20200114-刘欣-功能2-测试分支提交代码
     //我已经忘记更新了 我直接提交
-    //jflsdjfklasjdlfjkas
+    //jflsdjfklasjdlfjkas111111111
     public  static  final  Integer OPS_SUCCESS_CODE=200;
     public  static  final  String  OPS_SUCCESS_MSG="操作成功";
 
